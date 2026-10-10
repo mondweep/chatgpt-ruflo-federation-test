@@ -1,0 +1,11 @@
+{
+  "name": "mondweep-ruv-learning-labs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typesafe": "node typesafe-calibration.mjs"
+  },
+  "dependencies": {
+    "@ruvector/typesafe": "0.2.0"
+  }
+}
