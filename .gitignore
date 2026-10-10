@@ -1,0 +1,12 @@
+node_modules/
+claude-code-local/
+*.mp4
+*.wav
+*.png
+ruflo-mod-lab/.claude/
+ruflo-mod-lab/.claude-flow/
+ruflo-mod-lab/.mcp.json
+ruflo-mod-lab/CLAUDE.md
+ruflo-mod-lab/AGENTS.md
+.env
+*.key
